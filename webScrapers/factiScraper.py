@@ -76,7 +76,4 @@ def start_scraping():
 
 
 start_scraping()
-#644614
-
-# df = pd.read_csv("data0.csv")
-# print(df)
+#394175
