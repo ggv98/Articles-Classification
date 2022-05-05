@@ -72,7 +72,7 @@ def start_scraping():
                     data_frame.to_csv(file_name, index=False)
                     data_frame = pd.DataFrame(columns=DATA_ORDER)
             else:
-                print("False")
+                print(False)
 
 
 start_scraping()
